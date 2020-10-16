@@ -1,4 +1,6 @@
 name: Divyanshu Mathpal
+type: CNAME
 host: www.divyanshumathpal.com
 answer: grtcoder.github.io
+TTL: 300
 theme: jekyll-theme-hacker
